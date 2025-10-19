@@ -1,0 +1,1 @@
+I participated in the EMBEDDED SPRINT EVENT organised by SATHYABHAMA College. This repository shows the different code that i followed to make my project. The idea which I implemented in the day of competition is that Delivery bot ehich is remoted controlled and fitted with esp32 cam for the live dtresming.
